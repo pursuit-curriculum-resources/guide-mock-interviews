@@ -1,6 +1,6 @@
 # Project Walkthroughs
 
-TBD
+After large projects, you will be tasked with completing a walkthrough with your instructor. These walkthroughs will be incorporated into your project grade and will simulate a software development interview in many ways.
 
 ## Purpose
 
